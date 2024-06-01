@@ -57,5 +57,3 @@ features:
 extensions:
   academicons:
     enable: true
-  heroicons:
-    enable: true
