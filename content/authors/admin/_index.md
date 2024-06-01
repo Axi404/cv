@@ -52,7 +52,7 @@ education:
 
       Outstanding Major Courses:
 
-      Freshman Year:
+      **Freshman Year**:
       - Linear Algebra and Geometry: A+
       - Computer Programming: A+
       - Mathematical Analysis for Engineering-1: A+
@@ -60,7 +60,7 @@ education:
       - Math Foundation of Computer Science and Artificial Intelligence I: A
       - Mathematical Analysis for Engineering-2: A-
 
-      Sophomore Year:
+      **Sophomore Year**:
       - Math Foundation of Computer Science and Artificial Intelligence II: A
       - Electron Technology and System: A
       - Philosophical Foundation and Ethics of Artificial Intelligence: A
