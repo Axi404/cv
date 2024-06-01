@@ -54,29 +54,6 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -91,14 +68,6 @@ skills:
         description: ''
         percent: 90
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
 
 languages:
   - name: English
@@ -123,4 +92,4 @@ awards:
 
 ## About Me
 
-Ning Gao is currently an undergraduate student at **Xi'an Jiaotong University**, majoring in Artificial Intelligence. I am now diving into Computer Vision, Few Shot Learning and Medical Image Processing, and with the interest in Multi-modalities and VLM. Feel free to contact me through email(2221110582@stu.xjtu.edu.cn), Wechat(Axi404_) or QQ(3406402603@qq.com) if there is anything that you want to dicuss.
+Ning Gao is currently an undergraduate student at **Xi'an Jiaotong University**, majoring in Artificial Intelligence. I am now diving into Computer Vision, Few Shot Learning and Medical Image Processing, and with the interest in Multi-modalities and VLM. Feel free to contact me through [email]('mailto:2221110582@stu.xjtu.edu.cn'), Wechat(Axi404_) or QQ(3406402603@qq.com) if there is anything that you want to dicuss.
