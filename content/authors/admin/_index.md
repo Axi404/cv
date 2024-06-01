@@ -107,7 +107,7 @@ skills:
     color_border: '#238636'
     items:
       - name: Markdown
-        description: ''
+        description: For readme and blog writing.
         percent: 80
         icon: newspaper
 
