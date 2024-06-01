@@ -69,16 +69,13 @@ education:
 
 work:
   - position: Research Internship
-    company_name: GenCoin
+    company_name: Institute of Artificial Intelligence and Robotics, XJTU
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-10-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Conducted a research internship in Associate Professor Sanping Zhou’s lab, independently leading a project on Few Shot Learning. Engaged in academic discussions and produced significant research contributions.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
