@@ -139,7 +139,7 @@ awards:
     url: ''
     date: '2024-03-07'
     awarder: Under review, First Author
-    icon: book-open
+    icon: academicons/cv
     summary: |
       This project presents a simple yet effective semi-supervised learning framework for medical image segmentation. It constructs two sets of Mean Teacher models to form a co-training framework and **leverages the diversity between the representational capabilities of different networks** at different iterations **to build stable diversity among models**. Subsequently, it utilizes pseudo-label filtering and difference-driven alignment **to introduce robust regularization constraints for training**. The paper **achieves state-of-the-art performance** in the field and validates the method's generalization ability across various datasets.
 
