@@ -57,3 +57,5 @@ features:
 extensions:
   academicons:
     enable: true
+  hero:
+    enable: true
