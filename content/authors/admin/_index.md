@@ -126,7 +126,7 @@ awards:
     url: https://www.robomaster.com/zh-CN/resource/pages/announcement/1617
     date: '2023-08-18'
     awarder: First Prize at National Level
-    icon: hero/trophy
+    icon: circle-stack
     summary: |
       As the leader of the vision team, I organized and led the team to build the visual framework, implement algorithms, deploy, and maintain them. I undertook the main responsibilities in the project. I collaborated with the mechanical and electrical control teams and led the team to win the first prize nationwide for building a robot from scratch.
 
@@ -139,7 +139,7 @@ awards:
     url: ''
     date: '2024-03-07'
     awarder: Under review, First Author
-    icon: ai/CV
+    icon: book-open
     summary: |
       This project presents a simple yet effective semi-supervised learning framework for medical image segmentation. It constructs two sets of Mean Teacher models to form a co-training framework and **leverages the diversity between the representational capabilities of different networks** at different iterations **to build stable diversity among models**. Subsequently, it utilizes pseudo-label filtering and difference-driven alignment **to introduce robust regularization constraints for training**. The paper **achieves state-of-the-art performance** in the field and validates the method's generalization ability across various datasets.
 
