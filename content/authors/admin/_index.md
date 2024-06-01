@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Ning Gao 高宁
+title: 高宁
 
 # Name pronunciation (optional)
-name_pronunciation: Ning Gao
+name_pronunciation: Gao Ning
 
 # Full name (for SEO)
 first_name: Ning
@@ -54,17 +54,6 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -97,6 +86,10 @@ skills:
       - name: Python
         description: ''
         percent: 80
+        icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
