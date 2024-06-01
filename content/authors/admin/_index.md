@@ -151,4 +151,4 @@ awards:
 
 ## About Me
 
-Ning Gao is currently an undergraduate student at **Xi'an Jiaotong University**, majoring in Artificial Intelligence. I am now diving into Computer Vision, Few Shot Learning and Medical Image Processing, and with the interest in Multi-modalities and VLM. Feel free to contact me through email, Wechat(Axi404_) or QQ(3406402603@qq.com) if there is anything that you want to discuss.
+Ning Gao is currently an undergraduate student at **Xi'an Jiaotong University**, majoring in Artificial Intelligence. I am now diving into Computer Vision, Few Shot Learning and Medical Image Processing, and with the interest in Multi-modalities and VLM. Feel free to contact me through email, Wechat(Axi404_) or QQ(3406402603@qq.com) if there is anything that you want to discuss :)
