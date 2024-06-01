@@ -67,6 +67,19 @@ education:
       - Modern Approaches of Artificial Intelligence I - Problem Representation and Solving: A-
       - Probability Theory and System: A-
 
+work:
+  - position: Research Internship
+    company_name: GenCoin
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -80,6 +93,14 @@ skills:
         description: Proficient in C++ basic syntax, capable of using OpenCV and ROS for computer vision and robotics programming, and familiar with using data processing libraries such as Eigen. Experienced in complex projects (e.g., RoboMaster vision group framework and algorithm details).
         percent: 90
         icon: code-bracket
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Paper-reading
+        description: ''
+        percent: 80
+        icon: book-open
 
 languages:
   - name: English
