@@ -122,13 +122,19 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: The RoboMaster University Championship
+    url: https://www.robomaster.com/zh-CN/resource/pages/announcement/1617
+    date: '2023-08-18'
+    awarder: First Prize at National Level
+    icon: trophy
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      As the leader of the vision team, I organized and led the team to build the visual framework, implement algorithms, deploy, and maintain them. I undertook the main responsibilities in the project. I collaborated with the mechanical and electrical control teams and led the team to win the first prize nationwide for building a robot from scratch.
+
+      During the project, my responsibilities included:
+      - Detecting targets using both traditional vision methods and deep learning.
+      - Implementing target tracking using filtering algorithms(e.g., EKF).
+      - Debugging and developing SLAM programs based on ROS for autonomous navigation and obstacle avoidance.
+      - Development using Linux systems.
 
 ---
 
