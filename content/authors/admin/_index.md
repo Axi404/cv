@@ -126,7 +126,7 @@ awards:
     url: https://www.robomaster.com/zh-CN/resource/pages/announcement/1617
     date: '2023-08-18'
     awarder: First Prize at National Level
-    icon: fas/microchip
+    icon: far/microchip
     summary: |
       As the leader of the vision team, I organized and led the team to build the visual framework, implement algorithms, deploy, and maintain them. I undertook the main responsibilities in the project. I collaborated with the mechanical and electrical control teams and led the team to win the first prize nationwide for building a robot from scratch.
 
