@@ -43,17 +43,31 @@ interests:
   - Medical Image Processing
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Bachelor's in Artificial Intelligence
+    institution: College of Artificial Intelligence, Xi'an Jiaotong University
     date_start: 2022-09-01
     date_end: ''
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.94/4.3 (up to the first 3 semesters)
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Outstanding Major Courses:
+
+      Freshman Year:
+
+      Linear Algebra and Geometry: A+
+      Computer Programming: A+
+      Mathematical Analysis for Engineering-1: A+
+      Robot Creative Design and Practice: A+
+      Math Foundation of Computer Science and Artificial Intelligence I: A
+      Mathematical Analysis for Engineering-2: A-
+      
+      Sophomore Year:
+
+      Math Foundation of Computer Science and Artificial Intelligence II: A
+      Electron Technology and System: A
+      Philosophical Foundation and Ethics of Artificial Intelligence: A
+      Modern Approaches of Artificial Intelligence I - Problem Representation and Solving: A-
+      Probability Theory and System: A-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -61,11 +75,11 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: Proficient in Python's basic syntax, capable of using Numpy, Pandas, and SciPy for data processing. Skilled in utilizing PyTorch with extensive experience in code implementation.
+        percent: 90
         icon: code-bracket
       - name: C++
-        description: ''
+        description: Proficient in C++ basic syntax, capable of using OpenCV and ROS for computer vision and robotics programming, and familiar with using data processing libraries such as Eigen. Experienced in complex projects (e.g., RoboMaster vision group framework and algorithm details).
         percent: 90
         icon: code-bracket
 
@@ -92,4 +106,4 @@ awards:
 
 ## About Me
 
-Ning Gao is currently an undergraduate student at **Xi'an Jiaotong University**, majoring in Artificial Intelligence. I am now diving into Computer Vision, Few Shot Learning and Medical Image Processing, and with the interest in Multi-modalities and VLM. Feel free to contact me through [email]('mailto:2221110582@stu.xjtu.edu.cn'), Wechat(Axi404_) or QQ(3406402603@qq.com) if there is anything that you want to dicuss.
+Ning Gao is currently an undergraduate student at **Xi'an Jiaotong University**, majoring in Artificial Intelligence. I am now diving into Computer Vision, Few Shot Learning and Medical Image Processing, and with the interest in Multi-modalities and VLM. Feel free to contact me through [email]('mailto:2221110582@stu.xjtu.edu.cn'), Wechat(Axi404_) or QQ(3406402603@qq.com) if there is anything that you want to discuss.
