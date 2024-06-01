@@ -90,14 +90,26 @@ skills:
         description: Proficient in C++ basic syntax, capable of using OpenCV and ROS for computer vision and robotics programming, and familiar with using data processing libraries such as Eigen. Experienced in complex projects (e.g., RoboMaster vision group framework and algorithm details).
         percent: 90
         icon: code-bracket
+      - name: Linux
+        description: Proficient in using Linux systems (e.g., ArchLinux/Ubuntu), well-versed in common commands and SSH operations, with experience in using Linux-based servers for research project environment configuration, programming, and execution, as well as application development.
+        percent: 90
+        icon: code-bracket-square
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Paper-reading
-        description: ''
+        description: Extensively read cutting-edge papers in the field of artificial intelligence, possessing insights into advanced research in computer vision, and have explored key papers in major areas.
         percent: 80
         icon: book-open
+  - name: Tools
+    color: '#238636'
+    color_border: '#238636'
+    items:
+      - name: Markdown
+        description: ''
+        percent: 80
+        icon: newspaper
 
 languages:
   - name: English
