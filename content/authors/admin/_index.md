@@ -53,21 +53,19 @@ education:
       Outstanding Major Courses:
 
       Freshman Year:
+      - Linear Algebra and Geometry: A+
+      - Computer Programming: A+
+      - Mathematical Analysis for Engineering-1: A+
+      - Robot Creative Design and Practice: A+
+      - Math Foundation of Computer Science and Artificial Intelligence I: A
+      - Mathematical Analysis for Engineering-2: A-
 
-      Linear Algebra and Geometry: A+
-      Computer Programming: A+
-      Mathematical Analysis for Engineering-1: A+
-      Robot Creative Design and Practice: A+
-      Math Foundation of Computer Science and Artificial Intelligence I: A
-      Mathematical Analysis for Engineering-2: A-
-      
       Sophomore Year:
-
-      Math Foundation of Computer Science and Artificial Intelligence II: A
-      Electron Technology and System: A
-      Philosophical Foundation and Ethics of Artificial Intelligence: A
-      Modern Approaches of Artificial Intelligence I - Problem Representation and Solving: A-
-      Probability Theory and System: A-
+      - Math Foundation of Computer Science and Artificial Intelligence II: A
+      - Electron Technology and System: A
+      - Philosophical Foundation and Ethics of Artificial Intelligence: A
+      - Modern Approaches of Artificial Intelligence I - Problem Representation and Solving: A-
+      - Probability Theory and System: A-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -106,4 +104,4 @@ awards:
 
 ## About Me
 
-Ning Gao is currently an undergraduate student at **Xi'an Jiaotong University**, majoring in Artificial Intelligence. I am now diving into Computer Vision, Few Shot Learning and Medical Image Processing, and with the interest in Multi-modalities and VLM. Feel free to contact me through [email]('mailto:2221110582@stu.xjtu.edu.cn'), Wechat(Axi404_) or QQ(3406402603@qq.com) if there is anything that you want to discuss.
+Ning Gao is currently an undergraduate student at **Xi'an Jiaotong University**, majoring in Artificial Intelligence. I am now diving into Computer Vision, Few Shot Learning and Medical Image Processing, and with the interest in Multi-modalities and VLM. Feel free to contact me through email, Wechat(Axi404_) or QQ(3406402603@qq.com) if there is anything that you want to discuss.
