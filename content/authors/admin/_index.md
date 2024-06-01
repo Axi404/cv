@@ -85,15 +85,15 @@ skills:
       - name: Python
         description: Proficient in Python's basic syntax, capable of using Numpy, Pandas, and SciPy for data processing. Skilled in utilizing PyTorch with extensive experience in code implementation.
         percent: 90
-        icon: code-bracket
+        icon: devicon/python
       - name: C++
         description: Proficient in C++ basic syntax, capable of using OpenCV and ROS for computer vision and robotics programming, and familiar with using data processing libraries such as Eigen. Experienced in complex projects (e.g., RoboMaster vision group framework and algorithm details).
         percent: 90
-        icon: code-bracket
+        icon: devicon/cplusplus
       - name: Linux
         description: Proficient in using Linux systems (e.g., ArchLinux/Ubuntu), well-versed in common commands and SSH operations, with experience in using Linux-based servers for research project environment configuration, programming, and execution, as well as application development.
         percent: 90
-        icon: code-bracket-square
+        icon: devicon/linux
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -109,7 +109,7 @@ skills:
       - name: Markdown
         description: For readme and blog writing.
         percent: 80
-        icon: newspaper
+        icon: decicon/markdown
 
 languages:
   - name: English
