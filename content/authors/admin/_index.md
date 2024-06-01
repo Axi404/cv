@@ -135,7 +135,18 @@ awards:
       - Implementing target tracking using filtering algorithms(e.g., EKF).
       - Debugging and developing SLAM programs based on ROS for autonomous navigation and obstacle avoidance.
       - Development using Linux systems.
+  - title: 'PMT: Progressive Mean Teacher via Exploring Temporal Consistency for Semi-Supervised'
+    url: ''
+    date: '2023-03-07'
+    awarder: Under review, **First Author**
+    icon: CV
+    summary: |
+      This project presents a simple yet effective semi-supervised learning framework for medical image segmentation. It constructs two sets of Mean Teacher models to form a co-training framework and **leverages the diversity between the representational capabilities of different networks** at different iterations **to build stable diversity among models**. Subsequently, it utilizes pseudo-label filtering and difference-driven alignment **to introduce robust regularization constraints for training**. The paper **achieves state-of-the-art performance** in the field and validates the method's generalization ability across various datasets.
 
+      During the project, my responsibilities included:
+      - Independently proposing research ideas and conceptualizing model implementation.
+      - Independently completing experimental work for the paper (including comparative experiments and ablation studies)
+      - Worked closely with the supervisor to ensure the quality of paper writing, figure drawing and addressing rebuttals.
 ---
 
 ## About Me
