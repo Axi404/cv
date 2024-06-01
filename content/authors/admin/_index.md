@@ -122,19 +122,6 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: The RoboMaster University Championship
-    url: https://www.robomaster.com/zh-CN/resource/pages/announcement/1617
-    date: '2023-08-18'
-    awarder: First Prize at National Level
-    icon: far/microchip
-    summary: |
-      As the leader of the vision team, I organized and led the team to build the visual framework, implement algorithms, deploy, and maintain them. I undertook the main responsibilities in the project. I collaborated with the mechanical and electrical control teams and led the team to win the first prize nationwide for building a robot from scratch.
-
-      During the project, my responsibilities included:
-      - Detecting targets using both traditional vision methods and deep learning.
-      - Implementing target tracking using filtering algorithms(e.g., EKF).
-      - Debugging and developing SLAM programs based on ROS for autonomous navigation and obstacle avoidance.
-      - Development using Linux systems.
   - title: 'PMT: Progressive Mean Teacher via Exploring Temporal Consistency for Semi-Supervised'
     url: ''
     date: '2024-03-07'
@@ -147,6 +134,19 @@ awards:
       - Independently proposing research ideas and conceptualizing model implementation.
       - Independently completing experimental work for the paper (including comparative experiments and ablation studies)
       - Worked closely with the supervisor to ensure the quality of paper writing, figure drawing and addressing rebuttals.
+  - title: The RoboMaster University Championship
+    url: https://www.robomaster.com/zh-CN/resource/pages/announcement/1617
+    date: '2023-08-18'
+    awarder: First Prize at National Level
+    icon: circle-stack
+    summary: |
+      As the leader of the vision team, I organized and led the team to build the visual framework, implement algorithms, deploy, and maintain them. I undertook the main responsibilities in the project. I collaborated with the mechanical and electrical control teams and led the team to win the first prize nationwide for building a robot from scratch.
+
+      During the project, my responsibilities included:
+      - Detecting targets using both traditional vision methods and deep learning.
+      - Implementing target tracking using filtering algorithms(e.g., EKF).
+      - Debugging and developing SLAM programs based on ROS for autonomous navigation and obstacle avoidance.
+      - Development using Linux systems.
 ---
 
 ## About Me
