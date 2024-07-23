@@ -124,7 +124,7 @@ languages:
 awards:
   - title: 'PMT: Progressive Mean Teacher via Exploring Temporal Consistency for Semi-Supervised'
     url: ''
-    date: '2024-03-07'
+    date: '2024-07-02'
     awarder: ECCV2024 Accept List, First Author
     icon: academicons/cv
     summary: |
